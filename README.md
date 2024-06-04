@@ -13,8 +13,8 @@ Este repositório contém a implementação de um Perceptron Multicamadas (MLP) 
 Clone o repositório e instale os requisitos:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DO_REPOSITORIO>
+git clone https://github.com/AntonioArtimonte/PonderadaXOR.git
+cd PonderadaXOR
 pip install numpy torch
 ```
 
